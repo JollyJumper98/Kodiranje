@@ -1,0 +1,13 @@
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\bin\Debug\SelenijumViprTest.exe.config
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\bin\Debug\SelenijumViprTest.exe
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\bin\Debug\SelenijumViprTest.pdb
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\bin\Debug\WebDriver.dll
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\obj\Debug\SelenijumViprTest.csproj.AssemblyReference.cache
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\obj\Debug\SelenijumViprTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\obj\Debug\SelenijumViprTest.csproj.CoreCompileInputs.cache
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\obj\Debug\SelenijumViprTest.csproj.CopyComplete
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\obj\Debug\SelenijumViprTest.exe
+C:\Users\QA36\source\repos\SelenijumViprTest\SelenijumViprTest\obj\Debug\SelenijumViprTest.pdb
